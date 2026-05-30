@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "1.0.0",
   "description": "Interactive React Portfolio with Enhanced Features",
-  "homepage": "https://aadityamalikk.github.io/aaditya-portfiolio",
+  "homepage": "https://aadityamalikk.github.io/aaditya-portfolio",
   "main": "src/index.tsx",
   "scripts": {
     "start": "webpack serve --mode development",
