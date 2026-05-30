@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React.
 
 ## 🚀 Live Demo
 
-Visit the live site: [Aaditya's Portfolio](https://aadityamalikk.github.io/aaditya-portfiolio)
+Visit the live site: [Aaditya's Portfolio](https://aadityamalikk.github.io/aaditya-portfolio)
 
 ## 📋 Prerequisites
 
@@ -16,8 +16,8 @@ Visit the live site: [Aaditya's Portfolio](https://aadityamalikk.github.io/aadit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/aadityamalikk/aaditya-portfiolio.git
-cd aaditya-portfiolio
+git clone https://github.com/aadityamalikk/aaditya-portfolio.git
+cd aaditya-portfolio
 ```
 
 2. Install dependencies:
@@ -48,7 +48,7 @@ This project is automatically deployed to GitHub Pages using GitHub Actions.
 
 1. Push your changes to the `main` branch
 2. GitHub Actions will automatically build and deploy your site
-3. Your site will be available at `https://aadityamalikk.github.io/aaditya-portfiolio`
+3. Your site will be available at `https://aadityamalikk.github.io/aaditya-portfolio`
 
 ### Manual Deployment
 
@@ -62,7 +62,7 @@ npm run deploy
 ## 🔧 Configuration
 
 Make sure to update the following in your `package.json`:
-- `homepage`: Set to `https://aadityamalikk.github.io/aaditya-portfiolio`
+- `homepage`: Set to `https://aadityamalikk.github.io/aaditya-portfolio`
 - Repository settings: Enable GitHub Pages from Actions
 
 ## 📁 Project Structure

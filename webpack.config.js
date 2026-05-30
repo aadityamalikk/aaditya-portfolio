@@ -50,7 +50,7 @@ module.exports = (env, argv) => {
       filename: 'bundle.js',
       path: path.resolve(__dirname, 'dist'),
       clean: true,
-      publicPath: isProduction ? '/aaditya-portfiolio/' : '/',
+      publicPath: isProduction ? '/aaditya-portfolio/' : '/',
     },
     devServer: {
       static: [
